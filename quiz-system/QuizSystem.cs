@@ -9,8 +9,7 @@ namespace QuizSystem
         {
             
 
-            Console.WriteLine("Online Quiz System starting...");
-            Console.WriteLine("(Main menu and quiz logic to be implemented by the team.)");
+            Console.WriteLine("Online Quiz System starting");
         }
     }
 }
